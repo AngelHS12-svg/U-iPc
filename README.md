@@ -19,7 +19,13 @@ El jugador administra un taller, diagnostica equipos, elige recambios compatible
 
 Los escenarios reutilizan la estación y se diferencian en mobiliario, materiales y ambientación; no son mapas de exploración libre.
 
-## Abrir y jugar
+## Descargar y jugar en Windows
+
+Descarga **U-iPC_2_Windows.zip** desde [Releases: U-iPC 2.0](https://github.com/AngelHS12-svg/U-iPc/releases/tag/v2.0.0), extrae la carpeta completa y abre **U-iPC.exe**. Para jugar no necesitas Unity ni Blender.
+
+[Guía de instalación](docs/INSTALACION_WINDOWS.md) · [Capturas de las novedades](docs/CAPTURAS_V2.md) · [Manual de usuario](docs/MANUAL_V2.md)
+
+## Abrir el proyecto en Unity
 
 1. Instala Unity **6000.0.37f1**, con soporte de compilación para Windows.
 2. Agrega la carpeta **PCRepairLab** desde Unity Hub.

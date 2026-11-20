@@ -1,0 +1,19 @@
+name: Simulation model tests
+on:
+  push:
+  pull_request:
+permissions:
+  contents: read
+jobs:
+  model:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: '10.0.x'
+      - name: Part state rules
+        run: dotnet run --project Tests/PartStateTests.csproj --configuration Release
+      - name: Complete campaign and failure paths
+        run: dotnet run --project Tests/CampaignTests.csproj --configuration Release

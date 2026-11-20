@@ -1,0 +1,12 @@
+PASS 1 Primer arranque
+PASS 2 Una conexión olvidada
+PASS 3 El ventilador pide ayuda
+PASS 4 Sin señales de vida
+PASS 5 Dos problemas en el aula
+PASS 6 Estable en reposo
+PASS 7 Pantalla en negro
+PASS 8 Equipo de prácticas
+PASS 9 La estación de trabajo
+PASS 10 No culpes sólo al disco
+PASS 11 Falla intermitente
+PASS 12 Certificación del taller

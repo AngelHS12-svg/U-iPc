@@ -1,0 +1,310 @@
+PASS Twelve contracts
+PASS Three worlds
+PASS Initial symptom 0
+PASS Disconnect safely
+PASS Open isolated PC
+PASS Visual inspection Memory
+PASS Specific test Memory
+PASS Fault confirmed before replacement
+PASS Remove faulty Memory
+PASS Install ram8
+PASS Repaired component Memory
+PASS Close assembled PC
+PASS Reconnect closed PC
+PASS POST passes 0
+PASS Deliver contract 0
+PASS No double reward 0
+PASS Progress and three stars 0
+PASS Delivered save cannot duplicate reward
+PASS Initial symptom 1
+PASS Disconnect safely
+PASS Open isolated PC
+PASS Visual inspection Storage
+PASS Secure connector Storage
+PASS Specific test Storage
+PASS Repaired component Storage
+PASS Close assembled PC
+PASS Reconnect closed PC
+PASS POST passes 1
+PASS Deliver contract 1
+PASS No double reward 1
+PASS Progress and three stars 1
+PASS Delivered save cannot duplicate reward
+PASS Initial symptom 2
+PASS Disconnect safely
+PASS Open isolated PC
+PASS Visual inspection Cooling
+PASS Specific test Cooling
+PASS Clean cooling
+PASS Remove cooler
+PASS Apply paste
+PASS Reinstall cooler
+PASS Repaired component Cooling
+PASS Close assembled PC
+PASS Reconnect closed PC
+PASS POST passes 2
+PASS Deliver contract 2
+PASS No double reward 2
+PASS Progress and three stars 2
+PASS Delivered save cannot duplicate reward
+PASS Initial symptom 3
+PASS Disconnect safely
+PASS Open isolated PC
+PASS Visual inspection PowerSupply
+PASS Specific test PowerSupply
+PASS Fault confirmed before replacement
+PASS Remove faulty PowerSupply
+PASS Buy compatible psu450
+PASS Install psu450
+PASS Repaired component PowerSupply
+PASS Close assembled PC
+PASS Reconnect closed PC
+PASS POST passes 3
+PASS Deliver contract 3
+PASS No double reward 3
+PASS Progress and three stars 3
+PASS Delivered save cannot duplicate reward
+PASS Initial symptom 4
+PASS Disconnect safely
+PASS Open isolated PC
+PASS Visual inspection Memory
+PASS Remove unseated Memory
+PASS Reseat Memory
+PASS Specific test Memory
+PASS Repaired component Memory
+PASS Visual inspection Storage
+PASS Specific test Storage
+PASS Fault confirmed before replacement
+PASS Remove faulty Storage
+PASS Buy compatible ssd480
+PASS Install ssd480
+PASS Repaired component Storage
+PASS Close assembled PC
+PASS Reconnect closed PC
+PASS POST passes 4
+PASS Stress passes 4
+PASS Deliver contract 4
+PASS No double reward 4
+PASS Progress and three stars 4
+PASS Delivered save cannot duplicate reward
+PASS Initial symptom 5
+PASS Disconnect safely
+PASS Open isolated PC
+PASS Visual inspection Cooling
+PASS Specific test Cooling
+PASS Clean cooling
+PASS Remove cooler
+PASS Apply paste
+PASS Reinstall cooler
+PASS Repaired component Cooling
+PASS Close assembled PC
+PASS Reconnect closed PC
+PASS POST passes 5
+PASS Stress passes 5
+PASS Deliver contract 5
+PASS No double reward 5
+PASS Progress and three stars 5
+PASS Delivered save cannot duplicate reward
+PASS Initial symptom 6
+PASS Disconnect safely
+PASS Open isolated PC
+PASS Visual inspection Graphics
+PASS Specific test Graphics
+PASS Fault confirmed before replacement
+PASS Remove faulty Graphics
+PASS Buy compatible gpu4
+PASS Install gpu4
+PASS Repaired component Graphics
+PASS Close assembled PC
+PASS Reconnect closed PC
+PASS POST passes 6
+PASS Stress passes 6
+PASS Deliver contract 6
+PASS No double reward 6
+PASS Progress and three stars 6
+PASS Delivered save cannot duplicate reward
+PASS Initial symptom 7
+PASS Disconnect safely
+PASS Open isolated PC
+PASS Visual inspection Memory
+PASS Specific test Memory
+PASS Fault confirmed before replacement
+PASS Remove faulty Memory
+PASS Buy compatible ram8
+PASS Install ram8
+PASS Repaired component Memory
+PASS Visual inspection Storage
+PASS Secure connector Storage
+PASS Specific test Storage
+PASS Repaired component Storage
+PASS Visual inspection PowerSupply
+PASS Secure connector PowerSupply
+PASS Specific test PowerSupply
+PASS Repaired component PowerSupply
+PASS Close assembled PC
+PASS Reconnect closed PC
+PASS POST passes 7
+PASS Stress passes 7
+PASS Deliver contract 7
+PASS No double reward 7
+PASS Progress and three stars 7
+PASS Delivered save cannot duplicate reward
+PASS Initial symptom 8
+PASS Disconnect safely
+PASS Open isolated PC
+PASS Visual inspection PowerSupply
+PASS Specific test PowerSupply
+PASS Fault confirmed before replacement
+PASS Remove faulty PowerSupply
+PASS Buy compatible psu650
+PASS Install psu650
+PASS Repaired component PowerSupply
+PASS Visual inspection Graphics
+PASS Specific test Graphics
+PASS Fault confirmed before replacement
+PASS Remove faulty Graphics
+PASS Buy compatible gpu8
+PASS Install gpu8
+PASS Repaired component Graphics
+PASS Close assembled PC
+PASS Reconnect closed PC
+PASS POST passes 8
+PASS Stress passes 8
+PASS Deliver contract 8
+PASS No double reward 8
+PASS Progress and three stars 8
+PASS Delivered save cannot duplicate reward
+PASS Initial symptom 9
+PASS Disconnect safely
+PASS Open isolated PC
+PASS Visual inspection Storage
+PASS Secure connector Storage
+PASS Specific test Storage
+PASS Fault confirmed before replacement
+PASS Remove faulty Storage
+PASS Buy compatible ssd480
+PASS Install ssd480
+PASS Repaired component Storage
+PASS Visual inspection Cooling
+PASS Specific test Cooling
+PASS Clean cooling
+PASS Remove cooler
+PASS Apply paste
+PASS Reinstall cooler
+PASS Repaired component Cooling
+PASS Close assembled PC
+PASS Reconnect closed PC
+PASS POST passes 9
+PASS Stress passes 9
+PASS Deliver contract 9
+PASS No double reward 9
+PASS Progress and three stars 9
+PASS Delivered save cannot duplicate reward
+PASS Initial symptom 10
+PASS Disconnect safely
+PASS Open isolated PC
+PASS Visual inspection Memory
+PASS Remove unseated Memory
+PASS Reseat Memory
+PASS Specific test Memory
+PASS Fault confirmed before replacement
+PASS Remove faulty Memory
+PASS Buy compatible ram16
+PASS Install ram16
+PASS Repaired component Memory
+PASS Visual inspection Cooling
+PASS Specific test Cooling
+PASS Clean cooling
+PASS Remove cooler
+PASS Apply paste
+PASS Reinstall cooler
+PASS Repaired component Cooling
+PASS Visual inspection Graphics
+PASS Specific test Graphics
+PASS Fault confirmed before replacement
+PASS Remove faulty Graphics
+PASS Buy compatible gpu8
+PASS Install gpu8
+PASS Repaired component Graphics
+PASS Close assembled PC
+PASS Reconnect closed PC
+PASS POST passes 10
+PASS Stress passes 10
+PASS Deliver contract 10
+PASS No double reward 10
+PASS Progress and three stars 10
+PASS Delivered save cannot duplicate reward
+PASS Initial symptom 11
+PASS Disconnect safely
+PASS Open isolated PC
+PASS Visual inspection Memory
+PASS Specific test Memory
+PASS Fault confirmed before replacement
+PASS Remove faulty Memory
+PASS Buy compatible ram8
+PASS Install ram8
+PASS Repaired component Memory
+PASS Visual inspection Storage
+PASS Specific test Storage
+PASS Fault confirmed before replacement
+PASS Remove faulty Storage
+PASS Buy compatible ssd480
+PASS Install ssd480
+PASS Repaired component Storage
+PASS Visual inspection Cooling
+PASS Specific test Cooling
+PASS Clean cooling
+PASS Remove cooler
+PASS Apply paste
+PASS Reinstall cooler
+PASS Repaired component Cooling
+PASS Visual inspection PowerSupply
+PASS Specific test PowerSupply
+PASS Fault confirmed before replacement
+PASS Remove faulty PowerSupply
+PASS Buy compatible psu650
+PASS Install psu650
+PASS Repaired component PowerSupply
+PASS Visual inspection Graphics
+PASS Specific test Graphics
+PASS Fault confirmed before replacement
+PASS Remove faulty Graphics
+PASS Buy compatible gpu8
+PASS Install gpu8
+PASS Repaired component Graphics
+PASS Close assembled PC
+PASS Reconnect closed PC
+PASS POST passes 11
+PASS Stress passes 11
+PASS Deliver contract 11
+PASS No double reward 11
+PASS Progress and three stars 11
+PASS Delivered save cannot duplicate reward
+PASS Campaign completes with starting funds and legal inventory
+PASS Locked contracts unavailable
+PASS Safety rejects connected opening
+PASS Disconnect safely
+PASS Open isolated PC
+PASS Wrong DDR generation does not charge
+PASS Wrong storage interface does not charge
+PASS Compatible purchase within budget
+PASS Retry restores wallet and inventory
+PASS Power requirement enforced
+PASS VRAM requirement enforced
+PASS Disconnect safely
+PASS Open isolated PC
+PASS Loose cable makes SMART inconclusive
+PASS Cannot replace without fault confirmation
+PASS Can reseat faulty memory before confirming its fault
+PASS Fault discoverable after reseating
+PASS Expert deadline fails and powers off
+PASS Failed contract cannot buy
+PASS Failure retry has reputation consequence
+PASS Expert error limit enforced
+PASS Hints also enforce error limit
+PASS Guided mode has no hard deadline
+PASS Disconnect safely
+PASS Open isolated PC
+PASS Partial repair round trip
+PASS Reject unsafe saved power state
+PASSED: 309 campaign checks

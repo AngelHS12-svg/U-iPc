@@ -1,0 +1,68 @@
+PASS: Memory: avería inicial
+PASS: Memory: diagnosticar antes de retirar
+PASS: Memory: no sustituir componente montado
+PASS: Memory: diagnóstico
+PASS: Memory: retirar
+PASS: Memory: no reinstalar pieza averiada
+PASS: Memory: recambio completo
+PASS: Memory: impedir segundo recambio
+PASS: Storage: avería inicial
+PASS: Storage: diagnosticar antes de retirar
+PASS: Storage: no sustituir componente montado
+PASS: Storage: diagnóstico
+PASS: Storage: retirar
+PASS: Storage: no reinstalar pieza averiada
+PASS: Storage: recambio completo
+PASS: Storage: impedir segundo recambio
+PASS: No consumir recambio para pieza sana
+PASS: Recuperar pieza sana retirada
+PASS: Avería térmica inicial
+PASS: Diagnosticar antes de limpiar
+PASS: No aplicar pasta con disipador montado
+PASS: Retirar polvo antes de aplicar pasta
+PASS: Limpiar no resuelve la pasta deteriorada
+PASS: Cambiar pasta resuelve el estado térmico
+PASS: El servicio no monta automáticamente el disipador
+PASS: Montaje final del disipador
+PASS: No repetir mantenimiento innecesario
+PASS: Memory: reinicio restaura estado inicial
+PASS: Memory: una acción aislada no puede completar una reparación (Diagnose)
+PASS: Memory: una acción aislada no puede completar una reparación (Remove)
+PASS: Memory: una acción aislada no puede completar una reparación (Replace)
+PASS: Memory: una acción aislada no puede completar una reparación (Clean)
+PASS: Memory: una acción aislada no puede completar una reparación (ApplyPaste)
+PASS: Memory: una acción aislada no puede completar una reparación (Reinstall)
+PASS: Memory: una acción aislada no puede completar una reparación (Reconnect)
+PASS: Storage: reinicio restaura estado inicial
+PASS: Storage: una acción aislada no puede completar una reparación (Diagnose)
+PASS: Storage: una acción aislada no puede completar una reparación (Remove)
+PASS: Storage: una acción aislada no puede completar una reparación (Replace)
+PASS: Storage: una acción aislada no puede completar una reparación (Clean)
+PASS: Storage: una acción aislada no puede completar una reparación (ApplyPaste)
+PASS: Storage: una acción aislada no puede completar una reparación (Reinstall)
+PASS: Storage: una acción aislada no puede completar una reparación (Reconnect)
+PASS: Cooling: reinicio restaura estado inicial
+PASS: Cooling: una acción aislada no puede completar una reparación (Diagnose)
+PASS: Cooling: una acción aislada no puede completar una reparación (Remove)
+PASS: Cooling: una acción aislada no puede completar una reparación (Replace)
+PASS: Cooling: una acción aislada no puede completar una reparación (Clean)
+PASS: Cooling: una acción aislada no puede completar una reparación (ApplyPaste)
+PASS: Cooling: una acción aislada no puede completar una reparación (Reinstall)
+PASS: Cooling: una acción aislada no puede completar una reparación (Reconnect)
+PASS: PowerSupply: reinicio restaura estado inicial
+PASS: PowerSupply: una acción aislada no puede completar una reparación (Diagnose)
+PASS: PowerSupply: una acción aislada no puede completar una reparación (Remove)
+PASS: PowerSupply: una acción aislada no puede completar una reparación (Replace)
+PASS: PowerSupply: una acción aislada no puede completar una reparación (Clean)
+PASS: PowerSupply: una acción aislada no puede completar una reparación (ApplyPaste)
+PASS: PowerSupply: una acción aislada no puede completar una reparación (Reinstall)
+PASS: PowerSupply: una acción aislada no puede completar una reparación (Reconnect)
+PASS: Graphics: reinicio restaura estado inicial
+PASS: Graphics: una acción aislada no puede completar una reparación (Diagnose)
+PASS: Graphics: una acción aislada no puede completar una reparación (Remove)
+PASS: Graphics: una acción aislada no puede completar una reparación (Replace)
+PASS: Graphics: una acción aislada no puede completar una reparación (Clean)
+PASS: Graphics: una acción aislada no puede completar una reparación (ApplyPaste)
+PASS: Graphics: una acción aislada no puede completar una reparación (Reinstall)
+PASS: Graphics: una acción aislada no puede completar una reparación (Reconnect)
+PASSED: 67 checks
